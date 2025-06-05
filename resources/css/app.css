@@ -1,0 +1,11 @@
+.mt_75{
+    margin-top: 75px;
+}
+.form_input{
+    position: relative;
+}
+.icon_s{
+    position: absolute;
+    top: 44px;
+    right: 13px;
+}
